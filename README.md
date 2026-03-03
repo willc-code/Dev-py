@@ -1,6 +1,6 @@
 # Dev-py 🐍
 
-A personal repository documenting my journey learning Python from scratch.
+A personal repository documenting my passion project of learning Python from scratch.
 
 I have background in tech sales, data analyst and product management, and I'm building coding skills to better understand automation, data tools, and software development — and to eventually build tools that solve real business problems.
 
