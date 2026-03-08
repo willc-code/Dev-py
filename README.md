@@ -13,8 +13,10 @@ I have background in tech sales, data analyst and product management, and I'm bu
 
 | Project | Description | Status |
 |---|---|---|
-| [band_name_generator](./band_name_generator) | A fun CLI app that generates a band name based on user input | ✅ Complete |
+| [pizza_order_program](./pizza_order_program) | A CLI pizza order program with final bill amount | ✅ Complete |
 | [tip_calculator](./tip_calculator) | A CLI app that calculates the tip and the amount to pay for each person | ✅ Complete |
+| [band_name_generator](./band_name_generator) | A fun CLI app that generates a band name based on user input | ✅ Complete |
+
 
 ## Goals
 - Build practical Python scripts and automation tools
