@@ -13,6 +13,7 @@ I have background in tech sales, data analysis and product management, and I'm b
 
 | Project | Description | Status |
 |---|---|---|
+| [rock_paper_scissors](./rock_paper_scissors) | An interactive CLI rock, paper, scissors game where you play against the computer.  | ✅ Complete |
 | [treasure_island](./treasure_island) | An interactive CLI treasure hunting game on Treasure Island.  | ✅ Complete |
 | [pizza_order_program](./pizza_order_program) | A CLI pizza order program with final bill amount | ✅ Complete |
 | [tip_calculator](./tip_calculator) | A CLI app that calculates the tip and the amount to pay for each person | ✅ Complete |
