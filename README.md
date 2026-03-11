@@ -29,6 +29,7 @@ I have background in tech sales, data analysis and product management. I'm build
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-black?logo=pycharm)
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black?logo=github)
 
 ---
