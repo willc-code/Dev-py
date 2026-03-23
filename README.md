@@ -14,6 +14,7 @@ I have background in tech sales, data analysis and product management. I'm build
 
 | Project | Description | Status |
 |---|---|---|
+| [hangman](./hangman) | A classic CLI hangman game built in Python. Guess the word before your lives run out! | ✅ Complete |
 | [password_generator](./password_generator) | A random password generator program | ✅ Complete |
 | [rock_paper_scissors](./rock_paper_scissors) | An interactive CLI rock, paper, scissors game where you play against the computer.  | ✅ Complete |
 | [treasure_island](./treasure_island) | An interactive CLI treasure hunting game on Treasure Island.  | ✅ Complete |
