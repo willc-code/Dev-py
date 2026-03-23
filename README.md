@@ -14,11 +14,12 @@ I have background in tech sales, data analysis and product management. I'm build
 
 | Project | Description | Status |
 |---|---|---|
+| [password_generator](./password_generator) | A random password generator program | ✅ Complete |
 | [rock_paper_scissors](./rock_paper_scissors) | An interactive CLI rock, paper, scissors game where you play against the computer.  | ✅ Complete |
 | [treasure_island](./treasure_island) | An interactive CLI treasure hunting game on Treasure Island.  | ✅ Complete |
 | [pizza_order_program](./pizza_order_program) | A CLI pizza order program with final bill amount | ✅ Complete |
-| [tip_calculator](./tip_calculator) | A CLI app that calculates the tip and the amount to pay for each person | ✅ Complete |
-| [band_name_generator](./band_name_generator) | A fun CLI app that generates a band name based on user input | ✅ Complete |
+| [tip_calculator](./tip_calculator) | A CLI program that calculates the tip and the amount to pay for each person | ✅ Complete |
+| [band_name_generator](./band_name_generator) | A fun CLI program that generates a band name based on user input | ✅ Complete |
 
 
 ## Goals
