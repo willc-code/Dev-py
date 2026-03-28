@@ -14,15 +14,16 @@ I have background in tech sales, data analysis and product management. I'm build
 
 | Project | Description | Status |
 |---|---|---|
+| [caesar_cipher](./caesar_cipher) | Caesar probably wished he had this for his top secret stuff - A python CLI message encoder/decoder. | ✅ Complete |
 | [hangman](./hangman) | A classic CLI hangman game built in Python. Guess the word before your lives run out! | ✅ Complete |
 | [love_calculator](./love_calculator) | We're bringing the 2000s back with a Python, CLI Love Calculator. Find out how you and your crush will score! | ✅ Complete |
 | [guess_the_number](./guess_the_number) | A simple python CLI game of guessing the number. | ✅ Complete |
-| [password_generator](./password_generator) | They say your password must contain at least 8 characters and letters, symbols, numbers. We've got you covered. | ✅ Complete |
-| [rock_paper_scissors](./rock_paper_scissors) | An interactive CLI rock, paper, scissors game where you play against the computer.  | ✅ Complete |
-| [treasure_island](./treasure_island) | An interactive CLI treasure hunting game on Treasure Island.  | ✅ Complete |
-| [pizza_order_program](./pizza_order_program) | A CLI pizza order program with final bill amount | ✅ Complete |
-| [tip_calculator](./tip_calculator) | A CLI program that calculates the tip and the amount to pay for each person | ✅ Complete |
-| [band_name_generator](./band_name_generator) | A fun CLI program that generates a band name based on user input | ✅ Complete |
+| [password_generator](./password_generator) | They say your password must contain at least 8 characters and letters, symbols, numbers - We've got you covered. | ✅ Complete |
+| [rock_paper_scissors](./rock_paper_scissors) | Want to play some game? An interactive CLI rock, paper, scissors game where you play against the computer.  | ✅ Complete |
+| [treasure_island](./treasure_island) | Get rich or die tryin'! An interactive CLI treasure hunting game on Treasure Island.  | ✅ Complete |
+| [pizza_order_program](./pizza_order_program) | Want some pepperoni? A CLI pizza order program with final bill amount. | ✅ Complete |
+| [tip_calculator](./tip_calculator) | A CLI program that calculates the tip and the amount to pay for each person. | ✅ Complete |
+| [band_name_generator](./band_name_generator) | My teenage self would probably need this - A fun CLI program that generates a band name based on user input. | ✅ Complete |
 
 
 ## Goals
