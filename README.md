@@ -2,7 +2,7 @@
 
 it's a common sight in a tech office - quiet with faint smell of coffee, and keyboards clacking away. Software Engineers were at it. Glued for hours in front of the screen. It's what I see on a daily basis. The black screen with colourful characters has always been a little intimidating. One day, I decided to face my fears, and no longer wanting to feel like an outsider, I decided to take matters into my own hands....
 
-Welcome! This is a personal repository documenting my passion project of learning Python from scratch. I wrote my first Python code back in December 2023, but never learned the importance of saving work to GitHub — and somewhere along the way, life got in the way. I'm picking it up again now, this time properly with the help of GitHub. 
+Welcome! This is a personal repository documenting my passion project of learning Python from scratch. I wrote my first Python code back in December 2023, but never learned the importance of saving work to GitHub — and somewhere along the way, life got in the way. I'm picking it up again now, this time properly, with the help of GitHub. 
 
 I have background in tech sales, data analysis and product management. Fortunately, I did not study CS or IT in university. No prize for guessing my university major. So here I am! I'm building coding skills to better understand software development and to eventually build tools that solve real business problems.
 
