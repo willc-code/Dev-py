@@ -32,7 +32,7 @@ while not game_over:
     display = ""
 
     # this For Loop ensures that when the correct letter is guessed, it will be displayed, otherwise it will still be underscores.
-    # to ensure that previous correctly guessed words are also displayed, we created a list called correct_letters. We will append correct guesses in this list and make them appear again in subsequent guesses
+    # to ensure that previous correctly guessed words are also displayed, we created a list called correct_letters. We will append correct guesses in this list and make them appear again in subsequent guesses.
     for letter in chosen_word:
         if letter == guess:
             display += letter
