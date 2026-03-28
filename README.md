@@ -7,10 +7,10 @@ Welcome! This is a personal repository documenting my passion project of learnin
 I have background in tech sales, data analysis and product management. Fortunately, I did not study CS or IT in university. No prize for guessing my university major. So here I am! I'm building coding skills to better understand software development and to eventually build tools that solve real business problems.
 
 ## About Me
-- 💼 Product & Growth Manager at an AgriTech IoT solutions company
-- 🌱 Self-taught Python learner
-- 🤖 Passionate about bridging tech and the commercial world
-- 🏊 Outside of work, I enjoy long distance open water swimming and Lindy Hop
+- 💼 Product & Growth Manager at an AgriTech IoT solutions company.
+- 🌱 Self-taught Python learner.
+- 🤖 Passionate about bridging tech and the commercial world.
+- 🏊 Outside of work, I enjoy long distance open water swimming and Lindy Hop.
 
 ## Projects
 
