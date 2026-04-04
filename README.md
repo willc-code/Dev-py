@@ -17,6 +17,7 @@ I have background in tech sales, data analysis and product management. Fortunate
 
 | Project | Description | Status |
 |---|---|---|
+| [secret_auction](./secret_auction) | A python CLI program that that facilitates a "blind" or "secret" auction with multiple bidders. | ✅ Complete |
 | [caesar_cipher](./caesar_cipher) | Caesar probably wished he had this for his top secret stuff - A python CLI message encoder/decoder. | ✅ Complete |
 | [hangman](./hangman) | A classic CLI hangman game built in Python. Guess the word before your lives run out! | ✅ Complete |
 | [love_calculator](./love_calculator) | We're bringing the 2000s back with a Python, CLI Love Calculator. Find out how you and your crush will score! | ✅ Complete |
