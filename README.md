@@ -17,6 +17,7 @@ I have background in tech sales, data analysis and product management. Fortunate
 
 | Project | Description | Status |
 |---|---|---|
+| [the_calculator](./the_calculatpr) | A python CLI calculator with the addition, subtraction, multiplication. division and continuous calculation with more than two numbers.  | ✅ Complete |
 | [secret_auction](./secret_auction) | A python CLI program that that facilitates a "blind" or "secret" auction with multiple bidders. | ✅ Complete |
 | [caesar_cipher](./caesar_cipher) | Caesar probably wished he had this for his top secret stuff - A python CLI message encoder/decoder. | ✅ Complete |
 | [hangman](./hangman) | A classic CLI hangman game built in Python. Guess the word before your lives run out! | ✅ Complete |
