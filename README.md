@@ -17,6 +17,7 @@ I have background in tech sales, data analysis and product management. Fortunate
 
 | Project | Description | Status |
 |---|---|---|
+| [blackjack](./blackjack) | Risk it all in a fun Blackjack, CLI python game against the computer. | ✅ Complete |
 | [the_calculator](./the_calculatpr) | A python CLI calculator with the addition, subtraction, multiplication. division and continuous calculation with more than two numbers.  | ✅ Complete |
 | [secret_auction](./secret_auction) | A python CLI program that that facilitates a "blind" or "secret" auction with multiple bidders. | ✅ Complete |
 | [caesar_cipher](./caesar_cipher) | Caesar probably wished he had this for his top secret stuff - A python CLI message encoder/decoder. | ✅ Complete |
