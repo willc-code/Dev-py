@@ -1,4 +1,4 @@
-# Note: This was my second attempt after learning from the weaknesses in my draft version in draft.py
+# Note: This was my second attempt after learning from the weaknesses in my draft version in main.py
 # This version was also done without looking at tutorials or suggested solution, except for the list of cards.
 # After realising that the completed solution contains card number 11, I briefly looked at the suggested solution.
 # I took the list of cards from the suggested solution which mirrors the card deck better and improve the odds more realistically.
