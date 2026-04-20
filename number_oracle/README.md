@@ -1,6 +1,6 @@
-# The Mindreader!
+# The Number Oracle. 
 
-About: Can the computer read your mind? Pick a number, and see if it matches what the machine is thinking. Pure luck, pure fun.
+About: The Oracle has chosen a number between 1 and 100. You have unlimited attempts to uncover it — but how many guesses will it take? The fewer the better.
 
 ## How to use 
 
@@ -12,7 +12,7 @@ Guess a number between 0 - 100. Select 'easy' and you will get 10 attempts, and 
 
 ## Other files
 
-mindreader_art.py - contains the logo of the game in ASCII art, which is then imported to main.py
+number_oracle_art.py - contains the logo of the game in ASCII art, which is then imported to main.py
 Learning_Note_Global_vs_Local_Variable.md - Learning notes on Global vs Local Variable. 
 
 ### Learning notes 

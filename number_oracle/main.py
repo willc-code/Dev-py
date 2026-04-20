@@ -1,5 +1,5 @@
 import random
-from mindreader_art import logo
+from number_oracle_art import logo
 
 ATTEMPTS = 0
 game_over = False
