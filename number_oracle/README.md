@@ -1,6 +1,6 @@
 # The Number Oracle. 
 
-About: The Oracle has chosen a number between 1 and 100. You have unlimited attempts to uncover it — but how many guesses will it take? The fewer the better.
+About: The Oracle has chosen a number between 1 and 100. You have limited attempts to uncover it — but how many guesses will it take? The fewer the better.
 
 ## How to use 
 
