@@ -1,5 +1,5 @@
 import random
-from number_guessing_art import logo
+from mindreader_art import logo
 
 ATTEMPTS = 0
 game_over = False
